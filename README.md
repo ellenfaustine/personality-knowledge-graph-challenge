@@ -15,6 +15,7 @@ For a more detailed explanation of the methodology, evaluation, and findings, pl
 
 ## Dataset
 **Synthetic Cover Letters**
+
 The dataset consists of five synthetic cover letters generated with the assistance of ChatGPT (GPT-5).
 Each letter represents a different professional role:
 
@@ -41,33 +42,37 @@ pip install -r requirements.txt
 
 ## Execution
 1. Open the Jupyter Notebook
-  Launch Jupyter and open:
-  ```
-  Knowledge Graph Challenge.ipynb
-  ```
+   
+Launch Jupyter and open:
+```
+Knowledge Graph Challenge.ipynb
+```
 2. Run All Cells Sequentially
-  Execute the notebook from top to bottom (Run All) to perform the full pipeline:
-  - Data preprocessing and normalization
-  - LLM-based record extraction (semantic parsing)
-  - Entity extraction
-  - Relationship extraction
-  - Personality inference
-  - Knowledge graph construction
-  - Visualization & Export
-  - Evaluation
-  The notebook automatically reads input files from the data/ directory, stores generated results in the outputs/ directory, and references gold files from the gold/ directory for evaluation.
+
+Execute the notebook from top to bottom (Run All) to perform the full pipeline:
+- Data preprocessing and normalization
+- LLM-based record extraction (semantic parsing)
+- Entity extraction
+- Relationship extraction
+- Personality inference
+- Knowledge graph construction
+- Visualization & Export
+- Evaluation
+The notebook automatically reads input files from the data/ directory, stores generated results in the outputs/ directory, and references gold files from the gold/ directory for evaluation.
 
 3. Outputs Generated
-  After running, the notebook will produce:
-  - entities_per_record.json
-  - relations_per_record.json
-  - personality_inference.json
-  - personality_knowledge_graph.png
-  - eval_report.json
+   
+After running, the notebook will produce:
+- entities_per_record.json
+- relations_per_record.json
+- personality_inference.json
+- personality_knowledge_graph.png
+- eval_report.json
 
 4. View the Results
-  The Personality Knowledge Graph is displayed directly within the notebook and also saved locally to your device.
-  Evaluation results and metrics are printed in the final output cell.
+   
+The Personality Knowledge Graph is displayed directly within the notebook and also saved locally to your device.
+Evaluation results and metrics are printed in the final output cell.
 
 ## Results
 The system was evaluated against gold-standard files for entity, relation, and personality extraction.  
@@ -91,3 +96,9 @@ Results are summarized below (micro-averaged metrics):
 ## Report
 For a complete discussion of the pipeline design, validation logic, and analysis of results, please refer to:  
 **[Knowledge Graph Challenge Report.pdf](Knowledge%20Graph%20Challenge%20Report.pdf)**
+
+## ChatGPT Conversation
+Parts of this project — including reasoning, code refinement, and documentation — were developed with the assistance of **ChatGPT (GPT-5, OpenAI, 2025)**.
+
+You can view the full conversation used to guide the workflow and implementation here:  
+**[ChatGPT Conversation Link](https://chatgpt.com/share/68fb48fe-df70-8005-9ce4-c4c8560ee15f)**
