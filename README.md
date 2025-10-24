@@ -43,36 +43,42 @@ pip install -r requirements.txt
 ## Execution
 1. Open the Jupyter Notebook
    
-Launch Jupyter and open:
-```
-Knowledge Graph Challenge.ipynb
-```
+    Launch Jupyter and open:
+    ```
+    Knowledge Graph Challenge.ipynb
+    ```
 2. Run All Cells Sequentially
 
-Execute the notebook from top to bottom (Run All) to perform the full pipeline:
-- Data preprocessing and normalization
-- LLM-based record extraction (semantic parsing)
-- Entity extraction
-- Relationship extraction
-- Personality inference
-- Knowledge graph construction
-- Visualization & Export
-- Evaluation
-The notebook automatically reads input files from the data/ directory, stores generated results in the outputs/ directory, and references gold files from the gold/ directory for evaluation.
+    Execute the notebook from top to bottom (Run All) to perform the full pipeline:
+    - Data preprocessing and normalization
+    - LLM-based record extraction (semantic parsing)
+    - Entity extraction
+    - Relationship extraction
+    - Personality inference
+    - Knowledge graph construction
+    - Visualization & Export
+    - Evaluation
+    The notebook automatically reads input files from the data/ directory, stores generated results in the outputs/ directory, and references gold files from the gold/ directory for evaluation.
 
 3. Outputs Generated
    
-After running, the notebook will produce:
-- entities_per_record.json
-- relations_per_record.json
-- personality_inference.json
-- personality_knowledge_graph.png
-- eval_report.json
+    After running, the notebook will produce:
+    - cover_letters_normalized.json
+    - entities_per_record.json
+    - entities_flat.csv
+    - triples_augmented.json
+    - personality_inference.json
+    - personality_inference.csv
+    - validated_data.json
+    - personality_knowledge_graph.gexf
+    - personality_knowledge_graph.graphml
+    - personality_knowledge_graph.png
+    - eval_report.json
 
 4. View the Results
    
-The Personality Knowledge Graph is displayed directly within the notebook and also saved locally to your device.
-Evaluation results and metrics are printed in the final output cell.
+    The Personality Knowledge Graph is displayed directly within the notebook and also saved locally to your device.
+    Evaluation results and metrics are printed in the final output cell.
 
 ## Results
 The system was evaluated against gold-standard files for entity, relation, and personality extraction.  
