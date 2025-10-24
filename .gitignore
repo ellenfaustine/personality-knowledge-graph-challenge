@@ -212,3 +212,4 @@ __marimo__/
 !*.gexf
 !*.graphml
 !*.png
+!*.txt
