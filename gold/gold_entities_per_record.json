@@ -1,0 +1,104 @@
+[
+  {
+    "id": "letter_001",
+    "name": "Aisha Rahman",
+    "entities": [
+      {"text": "Aisha Rahman", "type": "PERSON"},
+      {"text": "Atelier Interactive", "type": "ORG"},
+      {"text": "PixelFlow Studio", "type": "ORG"},
+      {"text": "UX Designer", "type": "ROLE"},
+      {"text": "empathetic", "type": "TRAIT"},
+      {"text": "research-driven", "type": "TRAIT"},
+      {"text": "imaginative", "type": "TRAIT"},
+      {"text": "data-minded", "type": "TRAIT"},
+      {"text": "collaborative culture", "type": "PREFERENCE"},
+      {"text": "thoughtful design can influence emotion and behavior", "type": "MOTIVATION"},
+      {"text": "analytical thinking", "type": "TRAIT"}
+    ]
+  },
+  {
+    "id": "letter_002",
+    "name": "Daniel Koh",
+    "entities": [
+      {"text": "Daniel Koh", "type": "PERSON"},
+      {"text": "BioSense Institute", "type": "ORG"},
+      {"text": "Research Scientist", "type": "ROLE"},
+      {"text": "biomedical signal processing", "type": "SKILL"},
+      {"text": "machine learning models", "type": "SKILL"},
+      {"text": "analytical", "type": "TRAIT"},
+      {"text": "experimental", "type": "TRAIT"},
+      {"text": "curious", "type": "TRAIT"},
+      {"text": "meticulous", "type": "TRAIT"},
+      {"text": "calm focus under pressure", "type": "TRAIT"},
+      {"text": "reproducible results", "type": "PREFERENCE"},
+      {"text": "integrity", "type": "TRAIT"},
+      {"text": "precision", "type": "TRAIT"},
+      {"text": "interdisciplinary environment", "type": "PREFERENCE"},
+      {"text": "improve human health", "type": "MOTIVATION"},
+      {"text": "team leadership", "type": "SKILL"}
+    ]
+  },
+  {
+    "id": "letter_003",
+    "name": "Evelyn Tan",
+    "entities": [
+      {"text": "Evelyn Tan", "type": "PERSON"},
+      {"text": "Nova Insights", "type": "ORG"},
+      {"text": "Bright Metrics", "type": "ORG"},
+      {"text": "Data Analyst", "type": "ROLE"},
+      {"text": "Python", "type": "SKILL"},
+      {"text": "data cleaning", "type": "SKILL"},
+      {"text": "curious", "type": "TRAIT"},
+      {"text": "detail-oriented", "type": "TRAIT"},
+      {"text": "patient", "type": "TRAIT"},
+      {"text": "methodical", "type": "TRAIT"},
+      {"text": "collaboration", "type": "PREFERENCE"},
+      {"text": "uncovering patterns in complex datasets", "type": "MOTIVATION"},
+      {"text": "data-driven innovation", "type": "MOTIVATION"}
+    ]
+  },
+  {
+    "id": "letter_004",
+    "name": "Jonathan Lim",
+    "entities": [
+      {"text": "Jonathan Lim", "type": "PERSON"},
+      {"text": "Vertex Dynamics", "type": "ORG"},
+      {"text": "NexaTech", "type": "ORG"},
+      {"text": "leadership", "type": "SKILL"},
+      {"text": "organizational skills", "type": "SKILL"},
+      {"text": "managing cross-functional projects", "type": "SKILL"},
+      {"text": "structured", "type": "TRAIT"},
+      {"text": "adaptable", "type": "TRAIT"},
+      {"text": "transparency", "type": "PREFERENCE"},
+      {"text": "accountability", "type": "PREFERENCE"},
+      {"text": "clear communication", "type": "TRAIT"},
+      {"text": "proactive planning", "type": "TRAIT"},
+      {"text": "calm", "type": "TRAIT"},
+      {"text": "supportive", "type": "TRAIT"},
+      {"text": "disciplined execution", "type": "MOTIVATION"},
+      {"text": "human-centered teamwork", "type": "MOTIVATION"}
+    ]
+  },
+  {
+    "id": "letter_005",
+    "name": "Marcus Lee",
+    "entities": [
+      {"text": "Marcus Lee", "type": "PERSON"},
+      {"text": "Lumina Systems", "type": "ORG"},
+      {"text": "CloudNext", "type": "ORG"},
+      {"text": "Software Engineer", "type": "ROLE"},
+      {"text": "Node.js", "type": "SKILL"},
+      {"text": "React", "type": "SKILL"},
+      {"text": "backend APIs", "type": "SKILL"},
+      {"text": "user-centered design", "type": "SKILL"},
+      {"text": "disciplined", "type": "TRAIT"},
+      {"text": "self-motivated", "type": "TRAIT"},
+      {"text": "organized", "type": "TRAIT"},
+      {"text": "flexible", "type": "TRAIT"},
+      {"text": "empathy", "type": "TRAIT"},
+      {"text": "clarity", "type": "TRAIT"},
+      {"text": "continuous learning", "type": "PREFERENCE"},
+      {"text": "mentorship", "type": "PREFERENCE"}
+    ]
+  }
+]

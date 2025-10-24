@@ -1,0 +1,7 @@
+Dear Recruitment Team,
+
+My name is Marcus Lee, and I’m a Software Engineer with a passion for clean code and user-centered design. I am eager to join Lumina Systems to contribute to scalable, high-impact projects. My previous experience at CloudNext involved developing backend APIs in Node.js and integrating them with React interfaces for internal dashboards.
+
+I’m a highly disciplined and self-motivated developer who finds joy in turning abstract ideas into tangible products. I believe empathy and clarity are just as important as logic in programming. My work style is organized but flexible — I enjoy both independent problem-solving and brainstorming with teammates.
+
+What excites me about Lumina is its commitment to continuous learning and mentorship, values that align perfectly with my own approach to growth and innovation.

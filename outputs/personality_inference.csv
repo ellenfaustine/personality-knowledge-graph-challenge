@@ -1,0 +1,6 @@
+id,name,openness,conscientiousness,extraversion,agreeableness,neuroticism,adjectives
+letter_001,Aisha Rahman,0.7,0.6,0.4,0.8,0.3,imaginative; empathetic; data-minded; collaborative; analytical
+letter_002,Daniel Koh,0.75,0.85,0.45,0.65,0.3,curious; meticulous; calm; analytical; experimental
+letter_003,Evelyn Tan,0.7,0.85,0.45,0.65,0.3,curious; methodical; patient; collaborative
+letter_004,Jonathan Lim,0.65,0.85,0.45,0.7,0.3,structured; adaptable; proactive; calm; supportive
+letter_005,Marcus Lee,0.7,0.85,0.45,0.65,0.3,disciplined; self-motivated; empathetic; clear

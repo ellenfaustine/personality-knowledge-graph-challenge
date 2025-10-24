@@ -1,0 +1,320 @@
+[
+  {
+    "id": "letter_001",
+    "name": "Aisha Rahman",
+    "entities": [
+      {
+        "text": "Aisha Rahman",
+        "type": "PERSON"
+      },
+      {
+        "text": "Atelier Interactive",
+        "type": "ORG"
+      },
+      {
+        "text": "PixelFlow Studio",
+        "type": "ORG"
+      },
+      {
+        "text": "UX Designer",
+        "type": "ROLE"
+      },
+      {
+        "text": "empathetic",
+        "type": "SKILL"
+      },
+      {
+        "text": "research-driven",
+        "type": "SKILL"
+      },
+      {
+        "text": "imaginative",
+        "type": "SKILL"
+      },
+      {
+        "text": "data-minded",
+        "type": "SKILL"
+      },
+      {
+        "text": "collaborative",
+        "type": "TRAIT"
+      },
+      {
+        "text": "analytical",
+        "type": "TRAIT"
+      },
+      {
+        "text": "creative",
+        "type": "TRAIT"
+      },
+      {
+        "text": "thoughtful design can influence emotion and behavior",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "collaborative culture",
+        "type": "PREFERENCE"
+      }
+    ]
+  },
+  {
+    "id": "letter_002",
+    "name": "Daniel Koh",
+    "entities": [
+      {
+        "text": "Daniel Koh",
+        "type": "PERSON"
+      },
+      {
+        "text": "BioSense Institute",
+        "type": "ORG"
+      },
+      {
+        "text": "Research Scientist",
+        "type": "ROLE"
+      },
+      {
+        "text": "analytical",
+        "type": "SKILL"
+      },
+      {
+        "text": "experimental",
+        "type": "SKILL"
+      },
+      {
+        "text": "machine learning",
+        "type": "SKILL"
+      },
+      {
+        "text": "refining models",
+        "type": "SKILL"
+      },
+      {
+        "text": "curious",
+        "type": "TRAIT"
+      },
+      {
+        "text": "meticulous",
+        "type": "TRAIT"
+      },
+      {
+        "text": "calm focus under pressure",
+        "type": "TRAIT"
+      },
+      {
+        "text": "contributing to discoveries that improve human health",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "interdisciplinary environment",
+        "type": "PREFERENCE"
+      }
+    ]
+  },
+  {
+    "id": "letter_003",
+    "name": "Evelyn Tan",
+    "entities": [
+      {
+        "text": "Evelyn Tan",
+        "type": "PERSON"
+      },
+      {
+        "text": "Nova Insights",
+        "type": "ORG"
+      },
+      {
+        "text": "Bright Metrics",
+        "type": "ORG"
+      },
+      {
+        "text": "Data Analyst",
+        "type": "ROLE"
+      },
+      {
+        "text": "Python",
+        "type": "SKILL"
+      },
+      {
+        "text": "data analysis",
+        "type": "SKILL"
+      },
+      {
+        "text": "pattern recognition",
+        "type": "SKILL"
+      },
+      {
+        "text": "automation",
+        "type": "SKILL"
+      },
+      {
+        "text": "curious",
+        "type": "TRAIT"
+      },
+      {
+        "text": "detail-oriented",
+        "type": "TRAIT"
+      },
+      {
+        "text": "patient",
+        "type": "TRAIT"
+      },
+      {
+        "text": "methodical",
+        "type": "TRAIT"
+      },
+      {
+        "text": "uncovering patterns in complex datasets",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "translating data into meaningful business strategies",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "collaboration",
+        "type": "PREFERENCE"
+      },
+      {
+        "text": "diverse opinions",
+        "type": "PREFERENCE"
+      }
+    ]
+  },
+  {
+    "id": "letter_004",
+    "name": "Jonathan Lim",
+    "entities": [
+      {
+        "text": "Jonathan Lim",
+        "type": "PERSON"
+      },
+      {
+        "text": "Vertex Dynamics",
+        "type": "ORG"
+      },
+      {
+        "text": "NexaTech",
+        "type": "ORG"
+      },
+      {
+        "text": "leadership",
+        "type": "SKILL"
+      },
+      {
+        "text": "organizational skills",
+        "type": "SKILL"
+      },
+      {
+        "text": "structured",
+        "type": "SKILL"
+      },
+      {
+        "text": "adaptable",
+        "type": "SKILL"
+      },
+      {
+        "text": "clear communication",
+        "type": "SKILL"
+      },
+      {
+        "text": "proactive planning",
+        "type": "TRAIT"
+      },
+      {
+        "text": "calm and supportive presence",
+        "type": "TRAIT"
+      },
+      {
+        "text": "bring leadership and organizational skills",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "deliver complex projects with precision",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "anticipating problems rather than reacting to them",
+        "type": "PREFERENCE"
+      },
+      {
+        "text": "human-centered teamwork",
+        "type": "PREFERENCE"
+      }
+    ]
+  },
+  {
+    "id": "letter_005",
+    "name": "Marcus Lee",
+    "entities": [
+      {
+        "text": "Marcus Lee",
+        "type": "PERSON"
+      },
+      {
+        "text": "Lumina Systems",
+        "type": "ORG"
+      },
+      {
+        "text": "CloudNext",
+        "type": "ORG"
+      },
+      {
+        "text": "Software Engineer",
+        "type": "ROLE"
+      },
+      {
+        "text": "Node.js",
+        "type": "SKILL"
+      },
+      {
+        "text": "React",
+        "type": "SKILL"
+      },
+      {
+        "text": "backend APIs",
+        "type": "SKILL"
+      },
+      {
+        "text": "user-centered design",
+        "type": "SKILL"
+      },
+      {
+        "text": "clean code",
+        "type": "SKILL"
+      },
+      {
+        "text": "disciplined",
+        "type": "TRAIT"
+      },
+      {
+        "text": "self-motivated",
+        "type": "TRAIT"
+      },
+      {
+        "text": "empathetic",
+        "type": "TRAIT"
+      },
+      {
+        "text": "clear",
+        "type": "TRAIT"
+      },
+      {
+        "text": "contribute to scalable, high-impact projects",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "turn abstract ideas into tangible products",
+        "type": "MOTIVATION"
+      },
+      {
+        "text": "independent problem-solving",
+        "type": "PREFERENCE"
+      },
+      {
+        "text": "brainstorming with teammates",
+        "type": "PREFERENCE"
+      }
+    ]
+  }
+]

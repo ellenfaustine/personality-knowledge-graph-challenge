@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-24">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="6" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="openness" type="double" />
+      <attribute id="2" title="conscientiousness" type="double" />
+      <attribute id="3" title="extraversion" type="double" />
+      <attribute id="4" title="agreeableness" type="double" />
+      <attribute id="5" title="neuroticism" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Aisha Rahman" label="Aisha Rahman">
+        <attvalues>
+          <attvalue for="0" value="person" />
+          <attvalue for="1" value="0.7" />
+          <attvalue for="2" value="0.6" />
+          <attvalue for="3" value="0.4" />
+          <attvalue for="4" value="0.8" />
+          <attvalue for="5" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Daniel Koh" label="Daniel Koh">
+        <attvalues>
+          <attvalue for="0" value="person" />
+          <attvalue for="1" value="0.75" />
+          <attvalue for="2" value="0.85" />
+          <attvalue for="3" value="0.45" />
+          <attvalue for="4" value="0.65" />
+          <attvalue for="5" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Evelyn Tan" label="Evelyn Tan">
+        <attvalues>
+          <attvalue for="0" value="person" />
+          <attvalue for="1" value="0.7" />
+          <attvalue for="2" value="0.85" />
+          <attvalue for="3" value="0.45" />
+          <attvalue for="4" value="0.65" />
+          <attvalue for="5" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Lim" label="Jonathan Lim">
+        <attvalues>
+          <attvalue for="0" value="person" />
+          <attvalue for="1" value="0.65" />
+          <attvalue for="2" value="0.85" />
+          <attvalue for="3" value="0.45" />
+          <attvalue for="4" value="0.7" />
+          <attvalue for="5" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Marcus Lee" label="Marcus Lee">
+        <attvalues>
+          <attvalue for="0" value="person" />
+          <attvalue for="1" value="0.7" />
+          <attvalue for="2" value="0.85" />
+          <attvalue for="3" value="0.45" />
+          <attvalue for="4" value="0.65" />
+          <attvalue for="5" value="0.3" />
+        </attvalues>
+      </node>
+      <node id="Ux Designer" label="Ux Designer">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Atelier Interactive" label="Atelier Interactive">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Pixelflow Studio" label="Pixelflow Studio">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Empathetic" label="Empathetic">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Research-Driven" label="Research-Driven">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Imaginative" label="Imaginative">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Data-Minded" label="Data-Minded">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Collaborative" label="Collaborative">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Analytical" label="Analytical">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Creative" label="Creative">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Thoughtful Design Can Influence Emotion And Behavior" label="Thoughtful Design Can Influence Emotion And Behavior">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Collaborative Culture" label="Collaborative Culture">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Research Scientist" label="Research Scientist">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Biosense Institute" label="Biosense Institute">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Previous Lab" label="Previous Lab">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Experimental" label="Experimental">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Machine Learning" label="Machine Learning">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Refining Models" label="Refining Models">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Curious" label="Curious">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Meticulous" label="Meticulous">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Calm Focus Under Pressure" label="Calm Focus Under Pressure">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Contributing To Discoveries That Improve Human Health" label="Contributing To Discoveries That Improve Human Health">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Interdisciplinary Environment" label="Interdisciplinary Environment">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Data Analyst" label="Data Analyst">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Nova Insights" label="Nova Insights">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Bright Metrics" label="Bright Metrics">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Data Analysis" label="Data Analysis">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Pattern Recognition" label="Pattern Recognition">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Automation" label="Automation">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Detail-Oriented" label="Detail-Oriented">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Patient" label="Patient">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Methodical" label="Methodical">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Uncovering Patterns In Complex Datasets" label="Uncovering Patterns In Complex Datasets">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Translating Data Into Meaningful Business Strategies" label="Translating Data Into Meaningful Business Strategies">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Collaboration" label="Collaboration">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Diverse Opinions" label="Diverse Opinions">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Vertex Dynamics" label="Vertex Dynamics">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Nexatech" label="Nexatech">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Leadership" label="Leadership">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Organizational Skills" label="Organizational Skills">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Structured" label="Structured">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Adaptable" label="Adaptable">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Clear Communication" label="Clear Communication">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Proactive Planning" label="Proactive Planning">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Calm And Supportive Presence" label="Calm And Supportive Presence">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Bring Leadership And Organizational Skills" label="Bring Leadership And Organizational Skills">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Deliver Complex Projects With Precision" label="Deliver Complex Projects With Precision">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Anticipating Problems Rather Than Reacting To Them" label="Anticipating Problems Rather Than Reacting To Them">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Human-Centered Teamwork" label="Human-Centered Teamwork">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Software Engineer" label="Software Engineer">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Lumina Systems" label="Lumina Systems">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Cloudnext" label="Cloudnext">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Node.Js" label="Node.Js">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="React" label="React">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Backend Apis" label="Backend Apis">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="User-Centered Design" label="User-Centered Design">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Clean Code" label="Clean Code">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Disciplined" label="Disciplined">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Self-Motivated" label="Self-Motivated">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Clear" label="Clear">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Contribute To Scalable, High-Impact Projects" label="Contribute To Scalable, High-Impact Projects">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Turn Abstract Ideas Into Tangible Products" label="Turn Abstract Ideas Into Tangible Products">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Independent Problem-Solving" label="Independent Problem-Solving">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Brainstorming With Teammates" label="Brainstorming With Teammates">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+        </attvalues>
+      </node>
+      <node id="Openness" label="Openness">
+        <attvalues>
+          <attvalue for="0" value="trait_dimension" />
+        </attvalues>
+      </node>
+      <node id="Conscientiousness" label="Conscientiousness">
+        <attvalues>
+          <attvalue for="0" value="trait_dimension" />
+        </attvalues>
+      </node>
+      <node id="Extraversion" label="Extraversion">
+        <attvalues>
+          <attvalue for="0" value="trait_dimension" />
+        </attvalues>
+      </node>
+      <node id="Agreeableness" label="Agreeableness">
+        <attvalues>
+          <attvalue for="0" value="trait_dimension" />
+        </attvalues>
+      </node>
+      <node id="Neuroticism" label="Neuroticism">
+        <attvalues>
+          <attvalue for="0" value="trait_dimension" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Aisha Rahman" target="Ux Designer" id="0">
+        <attvalues>
+          <attvalue for="6" value="applies_for" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Atelier Interactive" id="1">
+        <attvalues>
+          <attvalue for="6" value="target_org" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Pixelflow Studio" id="2">
+        <attvalues>
+          <attvalue for="6" value="previously_worked_at" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Empathetic" id="3">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Research-Driven" id="4">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Imaginative" id="5">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Data-Minded" id="6">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Collaborative" id="7">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Analytical" id="8">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Creative" id="9">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Thoughtful Design Can Influence Emotion And Behavior" id="10">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Collaborative Culture" id="11">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Openness" id="12" weight="0.7">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Conscientiousness" id="13" weight="0.6">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Extraversion" id="14" weight="0.4">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Agreeableness" id="15" weight="0.8">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Aisha Rahman" target="Neuroticism" id="16" weight="0.3">
+        <attvalues>
+          <attvalue for="6" value="low_in" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Research Scientist" id="17">
+        <attvalues>
+          <attvalue for="6" value="applies_for" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Biosense Institute" id="18">
+        <attvalues>
+          <attvalue for="6" value="target_org" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Previous Lab" id="19">
+        <attvalues>
+          <attvalue for="6" value="previously_worked_at" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Analytical" id="20">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Experimental" id="21">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Machine Learning" id="22">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Refining Models" id="23">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Curious" id="24">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Meticulous" id="25">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Calm Focus Under Pressure" id="26">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Contributing To Discoveries That Improve Human Health" id="27">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Interdisciplinary Environment" id="28">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Openness" id="29" weight="0.75">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Conscientiousness" id="30" weight="0.85">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Extraversion" id="31" weight="0.45">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Agreeableness" id="32" weight="0.65">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Daniel Koh" target="Neuroticism" id="33" weight="0.3">
+        <attvalues>
+          <attvalue for="6" value="low_in" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Data Analyst" id="34">
+        <attvalues>
+          <attvalue for="6" value="applies_for" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Nova Insights" id="35">
+        <attvalues>
+          <attvalue for="6" value="target_org" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Bright Metrics" id="36">
+        <attvalues>
+          <attvalue for="6" value="previously_worked_at" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Python" id="37">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Data Analysis" id="38">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Pattern Recognition" id="39">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Automation" id="40">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Curious" id="41">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Detail-Oriented" id="42">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Patient" id="43">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Methodical" id="44">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Uncovering Patterns In Complex Datasets" id="45">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Translating Data Into Meaningful Business Strategies" id="46">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Collaboration" id="47">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Diverse Opinions" id="48">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Openness" id="49" weight="0.7">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Conscientiousness" id="50" weight="0.85">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Extraversion" id="51" weight="0.45">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Agreeableness" id="52" weight="0.65">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Evelyn Tan" target="Neuroticism" id="53" weight="0.3">
+        <attvalues>
+          <attvalue for="6" value="low_in" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Vertex Dynamics" id="54">
+        <attvalues>
+          <attvalue for="6" value="target_org" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Nexatech" id="55">
+        <attvalues>
+          <attvalue for="6" value="previously_worked_at" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Leadership" id="56">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Organizational Skills" id="57">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Structured" id="58">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Adaptable" id="59">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Clear Communication" id="60">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Proactive Planning" id="61">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Calm And Supportive Presence" id="62">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Bring Leadership And Organizational Skills" id="63">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Deliver Complex Projects With Precision" id="64">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Anticipating Problems Rather Than Reacting To Them" id="65">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Human-Centered Teamwork" id="66">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Openness" id="67" weight="0.65">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Conscientiousness" id="68" weight="0.85">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Extraversion" id="69" weight="0.45">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Agreeableness" id="70" weight="0.7">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Jonathan Lim" target="Neuroticism" id="71" weight="0.3">
+        <attvalues>
+          <attvalue for="6" value="low_in" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Software Engineer" id="72">
+        <attvalues>
+          <attvalue for="6" value="applies_for" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Lumina Systems" id="73">
+        <attvalues>
+          <attvalue for="6" value="target_org" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Cloudnext" id="74">
+        <attvalues>
+          <attvalue for="6" value="previously_worked_at" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Node.Js" id="75">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="React" id="76">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Backend Apis" id="77">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="User-Centered Design" id="78">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Clean Code" id="79">
+        <attvalues>
+          <attvalue for="6" value="has_skill" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Disciplined" id="80">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Self-Motivated" id="81">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Empathetic" id="82">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Clear" id="83">
+        <attvalues>
+          <attvalue for="6" value="has_trait" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Contribute To Scalable, High-Impact Projects" id="84">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Turn Abstract Ideas Into Tangible Products" id="85">
+        <attvalues>
+          <attvalue for="6" value="motivated_by" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Independent Problem-Solving" id="86">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Brainstorming With Teammates" id="87">
+        <attvalues>
+          <attvalue for="6" value="prefers_environment" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Openness" id="88" weight="0.7">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Conscientiousness" id="89" weight="0.85">
+        <attvalues>
+          <attvalue for="6" value="high_in" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Extraversion" id="90" weight="0.45">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Agreeableness" id="91" weight="0.65">
+        <attvalues>
+          <attvalue for="6" value="moderate_in" />
+        </attvalues>
+      </edge>
+      <edge source="Marcus Lee" target="Neuroticism" id="92" weight="0.3">
+        <attvalues>
+          <attvalue for="6" value="low_in" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

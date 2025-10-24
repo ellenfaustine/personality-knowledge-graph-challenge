@@ -1,0 +1,195 @@
+[
+  {
+    "id": "letter_001",
+    "name": "Aisha Rahman",
+    "big_five": {
+      "openness": 0.7,
+      "conscientiousness": 0.6,
+      "extraversion": 0.4,
+      "agreeableness": 0.8,
+      "neuroticism": 0.3
+    },
+    "adjectives": [
+      "imaginative",
+      "empathetic",
+      "data-minded",
+      "collaborative",
+      "analytical"
+    ],
+    "evidence": {
+      "openness": [
+        "thoughtful design can influence emotion and behavior",
+        "I enjoy listening to users, interpreting subtle feedback"
+      ],
+      "conscientiousness": [
+        "research-driven",
+        "balancing aesthetics with measurable usability"
+      ],
+      "extraversion": [],
+      "agreeableness": [
+        "collaborative culture"
+      ],
+      "neuroticism": []
+    },
+    "notes": ""
+  },
+  {
+    "id": "letter_002",
+    "name": "Daniel Koh",
+    "big_five": {
+      "openness": 0.75,
+      "conscientiousness": 0.85,
+      "extraversion": 0.45,
+      "agreeableness": 0.65,
+      "neuroticism": 0.3
+    },
+    "adjectives": [
+      "curious",
+      "meticulous",
+      "calm",
+      "analytical",
+      "experimental"
+    ],
+    "evidence": {
+      "openness": [
+        "I am excited to apply for the Research Scientist position",
+        "My peers often note my calm focus under pressure and my dedication to reproducible results."
+      ],
+      "conscientiousness": [
+        "I’m meticulous by nature, often spending long hours refining models until they meet clinical standards.",
+        "I value integrity and precision in research"
+      ],
+      "extraversion": [
+        "My peers often note my calm focus under pressure",
+        "I believe BioSense’s interdisciplinary environment will allow me to expand both my technical and scientific horizons."
+      ],
+      "agreeableness": [
+        "I find motivation in contributing to discoveries that improve human health.",
+        "I value integrity and precision in research"
+      ],
+      "neuroticism": [
+        "My peers often note my calm focus under pressure",
+        "I am excited to apply for the Research Scientist position"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "id": "letter_003",
+    "name": "Evelyn Tan",
+    "big_five": {
+      "openness": 0.7,
+      "conscientiousness": 0.85,
+      "extraversion": 0.45,
+      "agreeableness": 0.65,
+      "neuroticism": 0.3
+    },
+    "adjectives": [
+      "curious",
+      "methodical",
+      "patient",
+      "collaborative"
+    ],
+    "evidence": {
+      "openness": [
+        "uncovering patterns in complex datasets",
+        "translating data into meaningful business strategies"
+      ],
+      "conscientiousness": [
+        "detail-oriented",
+        "methodical",
+        "double-checking results before drawing conclusions"
+      ],
+      "extraversion": [
+        "I value collaboration and often seek diverse opinions to strengthen my insights"
+      ],
+      "agreeableness": [
+        "collaboration",
+        "diverse opinions"
+      ],
+      "neuroticism": [
+        "naturally curious"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "id": "letter_004",
+    "name": "Jonathan Lim",
+    "big_five": {
+      "openness": 0.65,
+      "conscientiousness": 0.85,
+      "extraversion": 0.45,
+      "agreeableness": 0.7,
+      "neuroticism": 0.3
+    },
+    "adjectives": [
+      "structured",
+      "adaptable",
+      "proactive",
+      "calm",
+      "supportive"
+    ],
+    "evidence": {
+      "openness": [
+        "I prefer anticipating problems rather than reacting to them.",
+        "My personality leans toward proactive planning"
+      ],
+      "conscientiousness": [
+        "I’m a structured yet adaptable professional who values transparency, accountability, and clear communication.",
+        "I try to maintain a calm and supportive presence when unexpected challenges arise."
+      ],
+      "extraversion": [
+        "I prefer anticipating problems rather than reacting to them.",
+        "My personality leans toward proactive planning"
+      ],
+      "agreeableness": [
+        "I try to maintain a calm and supportive presence when unexpected challenges arise.",
+        "human-centered teamwork"
+      ],
+      "neuroticism": [
+        "unexpected challenges arise"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "id": "letter_005",
+    "name": "Marcus Lee",
+    "big_five": {
+      "openness": 0.7,
+      "conscientiousness": 0.85,
+      "extraversion": 0.45,
+      "agreeableness": 0.65,
+      "neuroticism": 0.3
+    },
+    "adjectives": [
+      "disciplined",
+      "self-motivated",
+      "empathetic",
+      "clear"
+    ],
+    "evidence": {
+      "openness": [
+        "turn abstract ideas into tangible products",
+        "enjoy brainstorming with teammates"
+      ],
+      "conscientiousness": [
+        "highly disciplined",
+        "organized but flexible"
+      ],
+      "extraversion": [
+        "enjoy independent problem-solving",
+        "enjoy brainstorming with teammates"
+      ],
+      "agreeableness": [
+        "empathetic",
+        "clear"
+      ],
+      "neuroticism": [
+        "no explicit evidence, mid-value inference"
+      ]
+    },
+    "notes": "Marcus's writing suggests a strong sense of discipline and self-motivation, which aligns with conscientiousness. His emphasis on empathy and clarity in programming also supports agreeableness. The lack of explicit evidence for neuroticism led to a mid-value inference."
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "letter_001",
+    "name": "Aisha Rahman",
+    "triples": [
+      ["Aisha Rahman", "applies_for", "UX Designer"],
+      ["Aisha Rahman", "target_org", "Atelier Interactive"],
+      ["Aisha Rahman", "previously_worked_at", "PixelFlow Studio"],
+      ["Aisha Rahman", "has_trait", "empathetic"],
+      ["Aisha Rahman", "has_trait", "research-driven"],
+      ["Aisha Rahman", "has_trait", "imaginative"],
+      ["Aisha Rahman", "has_trait", "data-minded"],
+      ["Aisha Rahman", "has_trait", "analytical thinking"],
+      ["Aisha Rahman", "prefers_environment", "collaborative culture"],
+      ["Aisha Rahman", "motivated_by", "thoughtful design can influence emotion and behavior"]
+    ]
+  },
+  {
+    "id": "letter_002",
+    "name": "Daniel Koh",
+    "triples": [
+      ["Daniel Koh", "applies_for", "Research Scientist"],
+      ["Daniel Koh", "target_org", "BioSense Institute"],
+      ["Daniel Koh", "has_skill", "biomedical signal processing"],
+      ["Daniel Koh", "has_skill", "machine learning models"],
+      ["Daniel Koh", "has_skill", "team leadership"],
+      ["Daniel Koh", "has_trait", "curious"],
+      ["Daniel Koh", "has_trait", "meticulous"],
+      ["Daniel Koh", "has_trait", "analytical"],
+      ["Daniel Koh", "has_trait", "experimental"],
+      ["Daniel Koh", "has_trait", "calm focus under pressure"],
+      ["Daniel Koh", "has_trait", "integrity"],
+      ["Daniel Koh", "has_trait", "precision"],
+      ["Daniel Koh", "prefers_environment", "interdisciplinary environment"],
+      ["Daniel Koh", "prefers_environment", "reproducible results"],
+      ["Daniel Koh", "motivated_by", "improve human health"]
+    ]
+  },
+  {
+    "id": "letter_003",
+    "name": "Evelyn Tan",
+    "triples": [
+      ["Evelyn Tan", "applies_for", "Data Analyst"],
+      ["Evelyn Tan", "target_org", "Nova Insights"],
+      ["Evelyn Tan", "previously_worked_at", "Bright Metrics"],
+      ["Evelyn Tan", "has_skill", "Python"],
+      ["Evelyn Tan", "has_skill", "data cleaning"],
+      ["Evelyn Tan", "has_trait", "curious"],
+      ["Evelyn Tan", "has_trait", "detail-oriented"],
+      ["Evelyn Tan", "has_trait", "patient"],
+      ["Evelyn Tan", "has_trait", "methodical"],
+      ["Evelyn Tan", "prefers_environment", "collaboration"],
+      ["Evelyn Tan", "motivated_by", "uncovering patterns in complex datasets"],
+      ["Evelyn Tan", "motivated_by", "data-driven innovation"]
+    ]
+  },
+  {
+    "id": "letter_004",
+    "name": "Jonathan Lim",
+    "triples": [
+      ["Jonathan Lim", "target_org", "Vertex Dynamics"],
+      ["Jonathan Lim", "previously_worked_at", "NexaTech"],
+      ["Jonathan Lim", "has_skill", "leadership"],
+      ["Jonathan Lim", "has_skill", "organizational skills"],
+      ["Jonathan Lim", "has_skill", "managing cross-functional projects"],
+      ["Jonathan Lim", "has_trait", "structured"],
+      ["Jonathan Lim", "has_trait", "adaptable"],
+      ["Jonathan Lim", "has_trait", "clear communication"],
+      ["Jonathan Lim", "has_trait", "proactive planning"],
+      ["Jonathan Lim", "has_trait", "calm"],
+      ["Jonathan Lim", "has_trait", "supportive"],
+      ["Jonathan Lim", "prefers_environment", "transparency"],
+      ["Jonathan Lim", "prefers_environment", "accountability"],
+      ["Jonathan Lim", "motivated_by", "disciplined execution"],
+      ["Jonathan Lim", "motivated_by", "human-centered teamwork"]
+    ]
+  },
+  {
+    "id": "letter_005",
+    "name": "Marcus Lee",
+    "triples": [
+      ["Marcus Lee", "applies_for", "Software Engineer"],
+      ["Marcus Lee", "target_org", "Lumina Systems"],
+      ["Marcus Lee", "previously_worked_at", "CloudNext"],
+      ["Marcus Lee", "has_skill", "backend APIs"],
+      ["Marcus Lee", "has_skill", "Node.js"],
+      ["Marcus Lee", "has_skill", "React"],
+      ["Marcus Lee", "has_skill", "user-centered design"],
+      ["Marcus Lee", "has_trait", "disciplined"],
+      ["Marcus Lee", "has_trait", "self-motivated"],
+      ["Marcus Lee", "has_trait", "organized"],
+      ["Marcus Lee", "has_trait", "flexible"],
+      ["Marcus Lee", "has_trait", "empathy"],
+      ["Marcus Lee", "has_trait", "clarity"],
+      ["Marcus Lee", "prefers_environment", "continuous learning"],
+      ["Marcus Lee", "prefers_environment", "mentorship"]
+    ]
+  }
+]

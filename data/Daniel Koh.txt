@@ -1,0 +1,7 @@
+Dear Dr. Lee,
+
+My name is Daniel Koh, and I am excited to apply for the Research Scientist position at BioSense Institute. My academic background in biomedical signal processing has equipped me with strong analytical and experimental skills. At my previous lab, I led a small team in designing machine learning models to detect early cardiac anomalies from biosensor data.
+
+I’m deeply curious and meticulous by nature, often spending long hours refining models until they meet clinical standards. I value integrity and precision in research and find motivation in contributing to discoveries that improve human health. My peers often note my calm focus under pressure and my dedication to reproducible results.
+
+I believe BioSense’s interdisciplinary environment will allow me to expand both my technical and scientific horizons.

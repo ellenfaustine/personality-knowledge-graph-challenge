@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d5" for="node" attr.name="neuroticism" attr.type="double"/>
+<key id="d4" for="node" attr.name="agreeableness" attr.type="double"/>
+<key id="d3" for="node" attr.name="extraversion" attr.type="double"/>
+<key id="d2" for="node" attr.name="conscientiousness" attr.type="double"/>
+<key id="d1" for="node" attr.name="openness" attr.type="double"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Aisha Rahman">
+  <data key="d0">person</data>
+  <data key="d1">0.7</data>
+  <data key="d2">0.6</data>
+  <data key="d3">0.4</data>
+  <data key="d4">0.8</data>
+  <data key="d5">0.3</data>
+</node>
+<node id="Daniel Koh">
+  <data key="d0">person</data>
+  <data key="d1">0.75</data>
+  <data key="d2">0.85</data>
+  <data key="d3">0.45</data>
+  <data key="d4">0.65</data>
+  <data key="d5">0.3</data>
+</node>
+<node id="Evelyn Tan">
+  <data key="d0">person</data>
+  <data key="d1">0.7</data>
+  <data key="d2">0.85</data>
+  <data key="d3">0.45</data>
+  <data key="d4">0.65</data>
+  <data key="d5">0.3</data>
+</node>
+<node id="Jonathan Lim">
+  <data key="d0">person</data>
+  <data key="d1">0.65</data>
+  <data key="d2">0.85</data>
+  <data key="d3">0.45</data>
+  <data key="d4">0.7</data>
+  <data key="d5">0.3</data>
+</node>
+<node id="Marcus Lee">
+  <data key="d0">person</data>
+  <data key="d1">0.7</data>
+  <data key="d2">0.85</data>
+  <data key="d3">0.45</data>
+  <data key="d4">0.65</data>
+  <data key="d5">0.3</data>
+</node>
+<node id="Ux Designer">
+  <data key="d0">entity</data>
+</node>
+<node id="Atelier Interactive">
+  <data key="d0">entity</data>
+</node>
+<node id="Pixelflow Studio">
+  <data key="d0">entity</data>
+</node>
+<node id="Empathetic">
+  <data key="d0">entity</data>
+</node>
+<node id="Research-Driven">
+  <data key="d0">entity</data>
+</node>
+<node id="Imaginative">
+  <data key="d0">entity</data>
+</node>
+<node id="Data-Minded">
+  <data key="d0">entity</data>
+</node>
+<node id="Collaborative">
+  <data key="d0">entity</data>
+</node>
+<node id="Analytical">
+  <data key="d0">entity</data>
+</node>
+<node id="Creative">
+  <data key="d0">entity</data>
+</node>
+<node id="Thoughtful Design Can Influence Emotion And Behavior">
+  <data key="d0">entity</data>
+</node>
+<node id="Collaborative Culture">
+  <data key="d0">entity</data>
+</node>
+<node id="Research Scientist">
+  <data key="d0">entity</data>
+</node>
+<node id="Biosense Institute">
+  <data key="d0">entity</data>
+</node>
+<node id="Previous Lab">
+  <data key="d0">entity</data>
+</node>
+<node id="Experimental">
+  <data key="d0">entity</data>
+</node>
+<node id="Machine Learning">
+  <data key="d0">entity</data>
+</node>
+<node id="Refining Models">
+  <data key="d0">entity</data>
+</node>
+<node id="Curious">
+  <data key="d0">entity</data>
+</node>
+<node id="Meticulous">
+  <data key="d0">entity</data>
+</node>
+<node id="Calm Focus Under Pressure">
+  <data key="d0">entity</data>
+</node>
+<node id="Contributing To Discoveries That Improve Human Health">
+  <data key="d0">entity</data>
+</node>
+<node id="Interdisciplinary Environment">
+  <data key="d0">entity</data>
+</node>
+<node id="Data Analyst">
+  <data key="d0">entity</data>
+</node>
+<node id="Nova Insights">
+  <data key="d0">entity</data>
+</node>
+<node id="Bright Metrics">
+  <data key="d0">entity</data>
+</node>
+<node id="Python">
+  <data key="d0">entity</data>
+</node>
+<node id="Data Analysis">
+  <data key="d0">entity</data>
+</node>
+<node id="Pattern Recognition">
+  <data key="d0">entity</data>
+</node>
+<node id="Automation">
+  <data key="d0">entity</data>
+</node>
+<node id="Detail-Oriented">
+  <data key="d0">entity</data>
+</node>
+<node id="Patient">
+  <data key="d0">entity</data>
+</node>
+<node id="Methodical">
+  <data key="d0">entity</data>
+</node>
+<node id="Uncovering Patterns In Complex Datasets">
+  <data key="d0">entity</data>
+</node>
+<node id="Translating Data Into Meaningful Business Strategies">
+  <data key="d0">entity</data>
+</node>
+<node id="Collaboration">
+  <data key="d0">entity</data>
+</node>
+<node id="Diverse Opinions">
+  <data key="d0">entity</data>
+</node>
+<node id="Vertex Dynamics">
+  <data key="d0">entity</data>
+</node>
+<node id="Nexatech">
+  <data key="d0">entity</data>
+</node>
+<node id="Leadership">
+  <data key="d0">entity</data>
+</node>
+<node id="Organizational Skills">
+  <data key="d0">entity</data>
+</node>
+<node id="Structured">
+  <data key="d0">entity</data>
+</node>
+<node id="Adaptable">
+  <data key="d0">entity</data>
+</node>
+<node id="Clear Communication">
+  <data key="d0">entity</data>
+</node>
+<node id="Proactive Planning">
+  <data key="d0">entity</data>
+</node>
+<node id="Calm And Supportive Presence">
+  <data key="d0">entity</data>
+</node>
+<node id="Bring Leadership And Organizational Skills">
+  <data key="d0">entity</data>
+</node>
+<node id="Deliver Complex Projects With Precision">
+  <data key="d0">entity</data>
+</node>
+<node id="Anticipating Problems Rather Than Reacting To Them">
+  <data key="d0">entity</data>
+</node>
+<node id="Human-Centered Teamwork">
+  <data key="d0">entity</data>
+</node>
+<node id="Software Engineer">
+  <data key="d0">entity</data>
+</node>
+<node id="Lumina Systems">
+  <data key="d0">entity</data>
+</node>
+<node id="Cloudnext">
+  <data key="d0">entity</data>
+</node>
+<node id="Node.Js">
+  <data key="d0">entity</data>
+</node>
+<node id="React">
+  <data key="d0">entity</data>
+</node>
+<node id="Backend Apis">
+  <data key="d0">entity</data>
+</node>
+<node id="User-Centered Design">
+  <data key="d0">entity</data>
+</node>
+<node id="Clean Code">
+  <data key="d0">entity</data>
+</node>
+<node id="Disciplined">
+  <data key="d0">entity</data>
+</node>
+<node id="Self-Motivated">
+  <data key="d0">entity</data>
+</node>
+<node id="Clear">
+  <data key="d0">entity</data>
+</node>
+<node id="Contribute To Scalable, High-Impact Projects">
+  <data key="d0">entity</data>
+</node>
+<node id="Turn Abstract Ideas Into Tangible Products">
+  <data key="d0">entity</data>
+</node>
+<node id="Independent Problem-Solving">
+  <data key="d0">entity</data>
+</node>
+<node id="Brainstorming With Teammates">
+  <data key="d0">entity</data>
+</node>
+<node id="Openness">
+  <data key="d0">trait_dimension</data>
+</node>
+<node id="Conscientiousness">
+  <data key="d0">trait_dimension</data>
+</node>
+<node id="Extraversion">
+  <data key="d0">trait_dimension</data>
+</node>
+<node id="Agreeableness">
+  <data key="d0">trait_dimension</data>
+</node>
+<node id="Neuroticism">
+  <data key="d0">trait_dimension</data>
+</node>
+<edge source="Aisha Rahman" target="Ux Designer">
+  <data key="d6">applies_for</data>
+</edge>
+<edge source="Aisha Rahman" target="Atelier Interactive">
+  <data key="d6">target_org</data>
+</edge>
+<edge source="Aisha Rahman" target="Pixelflow Studio">
+  <data key="d6">previously_worked_at</data>
+</edge>
+<edge source="Aisha Rahman" target="Empathetic">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Aisha Rahman" target="Research-Driven">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Aisha Rahman" target="Imaginative">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Aisha Rahman" target="Data-Minded">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Aisha Rahman" target="Collaborative">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Aisha Rahman" target="Analytical">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Aisha Rahman" target="Creative">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Aisha Rahman" target="Thoughtful Design Can Influence Emotion And Behavior">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Aisha Rahman" target="Collaborative Culture">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Aisha Rahman" target="Openness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.7</data>
+</edge>
+<edge source="Aisha Rahman" target="Conscientiousness">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.6</data>
+</edge>
+<edge source="Aisha Rahman" target="Extraversion">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.4</data>
+</edge>
+<edge source="Aisha Rahman" target="Agreeableness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.8</data>
+</edge>
+<edge source="Aisha Rahman" target="Neuroticism">
+  <data key="d6">low_in</data>
+  <data key="d7">0.3</data>
+</edge>
+<edge source="Daniel Koh" target="Research Scientist">
+  <data key="d6">applies_for</data>
+</edge>
+<edge source="Daniel Koh" target="Biosense Institute">
+  <data key="d6">target_org</data>
+</edge>
+<edge source="Daniel Koh" target="Previous Lab">
+  <data key="d6">previously_worked_at</data>
+</edge>
+<edge source="Daniel Koh" target="Analytical">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Daniel Koh" target="Experimental">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Daniel Koh" target="Machine Learning">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Daniel Koh" target="Refining Models">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Daniel Koh" target="Curious">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Daniel Koh" target="Meticulous">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Daniel Koh" target="Calm Focus Under Pressure">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Daniel Koh" target="Contributing To Discoveries That Improve Human Health">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Daniel Koh" target="Interdisciplinary Environment">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Daniel Koh" target="Openness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.75</data>
+</edge>
+<edge source="Daniel Koh" target="Conscientiousness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.85</data>
+</edge>
+<edge source="Daniel Koh" target="Extraversion">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.45</data>
+</edge>
+<edge source="Daniel Koh" target="Agreeableness">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.65</data>
+</edge>
+<edge source="Daniel Koh" target="Neuroticism">
+  <data key="d6">low_in</data>
+  <data key="d7">0.3</data>
+</edge>
+<edge source="Evelyn Tan" target="Data Analyst">
+  <data key="d6">applies_for</data>
+</edge>
+<edge source="Evelyn Tan" target="Nova Insights">
+  <data key="d6">target_org</data>
+</edge>
+<edge source="Evelyn Tan" target="Bright Metrics">
+  <data key="d6">previously_worked_at</data>
+</edge>
+<edge source="Evelyn Tan" target="Python">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Evelyn Tan" target="Data Analysis">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Evelyn Tan" target="Pattern Recognition">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Evelyn Tan" target="Automation">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Evelyn Tan" target="Curious">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Evelyn Tan" target="Detail-Oriented">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Evelyn Tan" target="Patient">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Evelyn Tan" target="Methodical">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Evelyn Tan" target="Uncovering Patterns In Complex Datasets">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Evelyn Tan" target="Translating Data Into Meaningful Business Strategies">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Evelyn Tan" target="Collaboration">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Evelyn Tan" target="Diverse Opinions">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Evelyn Tan" target="Openness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.7</data>
+</edge>
+<edge source="Evelyn Tan" target="Conscientiousness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.85</data>
+</edge>
+<edge source="Evelyn Tan" target="Extraversion">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.45</data>
+</edge>
+<edge source="Evelyn Tan" target="Agreeableness">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.65</data>
+</edge>
+<edge source="Evelyn Tan" target="Neuroticism">
+  <data key="d6">low_in</data>
+  <data key="d7">0.3</data>
+</edge>
+<edge source="Jonathan Lim" target="Vertex Dynamics">
+  <data key="d6">target_org</data>
+</edge>
+<edge source="Jonathan Lim" target="Nexatech">
+  <data key="d6">previously_worked_at</data>
+</edge>
+<edge source="Jonathan Lim" target="Leadership">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Jonathan Lim" target="Organizational Skills">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Jonathan Lim" target="Structured">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Jonathan Lim" target="Adaptable">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Jonathan Lim" target="Clear Communication">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Jonathan Lim" target="Proactive Planning">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Jonathan Lim" target="Calm And Supportive Presence">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Jonathan Lim" target="Bring Leadership And Organizational Skills">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Jonathan Lim" target="Deliver Complex Projects With Precision">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Jonathan Lim" target="Anticipating Problems Rather Than Reacting To Them">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Jonathan Lim" target="Human-Centered Teamwork">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Jonathan Lim" target="Openness">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.65</data>
+</edge>
+<edge source="Jonathan Lim" target="Conscientiousness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.85</data>
+</edge>
+<edge source="Jonathan Lim" target="Extraversion">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.45</data>
+</edge>
+<edge source="Jonathan Lim" target="Agreeableness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.7</data>
+</edge>
+<edge source="Jonathan Lim" target="Neuroticism">
+  <data key="d6">low_in</data>
+  <data key="d7">0.3</data>
+</edge>
+<edge source="Marcus Lee" target="Software Engineer">
+  <data key="d6">applies_for</data>
+</edge>
+<edge source="Marcus Lee" target="Lumina Systems">
+  <data key="d6">target_org</data>
+</edge>
+<edge source="Marcus Lee" target="Cloudnext">
+  <data key="d6">previously_worked_at</data>
+</edge>
+<edge source="Marcus Lee" target="Node.Js">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Marcus Lee" target="React">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Marcus Lee" target="Backend Apis">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Marcus Lee" target="User-Centered Design">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Marcus Lee" target="Clean Code">
+  <data key="d6">has_skill</data>
+</edge>
+<edge source="Marcus Lee" target="Disciplined">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Marcus Lee" target="Self-Motivated">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Marcus Lee" target="Empathetic">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Marcus Lee" target="Clear">
+  <data key="d6">has_trait</data>
+</edge>
+<edge source="Marcus Lee" target="Contribute To Scalable, High-Impact Projects">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Marcus Lee" target="Turn Abstract Ideas Into Tangible Products">
+  <data key="d6">motivated_by</data>
+</edge>
+<edge source="Marcus Lee" target="Independent Problem-Solving">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Marcus Lee" target="Brainstorming With Teammates">
+  <data key="d6">prefers_environment</data>
+</edge>
+<edge source="Marcus Lee" target="Openness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.7</data>
+</edge>
+<edge source="Marcus Lee" target="Conscientiousness">
+  <data key="d6">high_in</data>
+  <data key="d7">0.85</data>
+</edge>
+<edge source="Marcus Lee" target="Extraversion">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.45</data>
+</edge>
+<edge source="Marcus Lee" target="Agreeableness">
+  <data key="d6">moderate_in</data>
+  <data key="d7">0.65</data>
+</edge>
+<edge source="Marcus Lee" target="Neuroticism">
+  <data key="d6">low_in</data>
+  <data key="d7">0.3</data>
+</edge>
+</graph></graphml>

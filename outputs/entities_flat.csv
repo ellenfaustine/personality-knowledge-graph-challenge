@@ -1,0 +1,73 @@
+record_id,name,entity_text,entity_type
+letter_001,Aisha Rahman,Aisha Rahman,PERSON
+letter_001,Aisha Rahman,Atelier Interactive,ORG
+letter_001,Aisha Rahman,PixelFlow Studio,ORG
+letter_001,Aisha Rahman,UX Designer,ROLE
+letter_001,Aisha Rahman,empathetic,SKILL
+letter_001,Aisha Rahman,research-driven,SKILL
+letter_001,Aisha Rahman,imaginative,SKILL
+letter_001,Aisha Rahman,data-minded,SKILL
+letter_001,Aisha Rahman,collaborative,TRAIT
+letter_001,Aisha Rahman,analytical,TRAIT
+letter_001,Aisha Rahman,creative,TRAIT
+letter_001,Aisha Rahman,thoughtful design can influence emotion and behavior,MOTIVATION
+letter_001,Aisha Rahman,collaborative culture,PREFERENCE
+letter_002,Daniel Koh,Daniel Koh,PERSON
+letter_002,Daniel Koh,BioSense Institute,ORG
+letter_002,Daniel Koh,Research Scientist,ROLE
+letter_002,Daniel Koh,analytical,SKILL
+letter_002,Daniel Koh,experimental,SKILL
+letter_002,Daniel Koh,machine learning,SKILL
+letter_002,Daniel Koh,refining models,SKILL
+letter_002,Daniel Koh,curious,TRAIT
+letter_002,Daniel Koh,meticulous,TRAIT
+letter_002,Daniel Koh,calm focus under pressure,TRAIT
+letter_002,Daniel Koh,contributing to discoveries that improve human health,MOTIVATION
+letter_002,Daniel Koh,interdisciplinary environment,PREFERENCE
+letter_003,Evelyn Tan,Evelyn Tan,PERSON
+letter_003,Evelyn Tan,Nova Insights,ORG
+letter_003,Evelyn Tan,Bright Metrics,ORG
+letter_003,Evelyn Tan,Data Analyst,ROLE
+letter_003,Evelyn Tan,Python,SKILL
+letter_003,Evelyn Tan,data analysis,SKILL
+letter_003,Evelyn Tan,pattern recognition,SKILL
+letter_003,Evelyn Tan,automation,SKILL
+letter_003,Evelyn Tan,curious,TRAIT
+letter_003,Evelyn Tan,detail-oriented,TRAIT
+letter_003,Evelyn Tan,patient,TRAIT
+letter_003,Evelyn Tan,methodical,TRAIT
+letter_003,Evelyn Tan,uncovering patterns in complex datasets,MOTIVATION
+letter_003,Evelyn Tan,translating data into meaningful business strategies,MOTIVATION
+letter_003,Evelyn Tan,collaboration,PREFERENCE
+letter_003,Evelyn Tan,diverse opinions,PREFERENCE
+letter_004,Jonathan Lim,Jonathan Lim,PERSON
+letter_004,Jonathan Lim,Vertex Dynamics,ORG
+letter_004,Jonathan Lim,NexaTech,ORG
+letter_004,Jonathan Lim,leadership,SKILL
+letter_004,Jonathan Lim,organizational skills,SKILL
+letter_004,Jonathan Lim,structured,SKILL
+letter_004,Jonathan Lim,adaptable,SKILL
+letter_004,Jonathan Lim,clear communication,SKILL
+letter_004,Jonathan Lim,proactive planning,TRAIT
+letter_004,Jonathan Lim,calm and supportive presence,TRAIT
+letter_004,Jonathan Lim,bring leadership and organizational skills,MOTIVATION
+letter_004,Jonathan Lim,deliver complex projects with precision,MOTIVATION
+letter_004,Jonathan Lim,anticipating problems rather than reacting to them,PREFERENCE
+letter_004,Jonathan Lim,human-centered teamwork,PREFERENCE
+letter_005,Marcus Lee,Marcus Lee,PERSON
+letter_005,Marcus Lee,Lumina Systems,ORG
+letter_005,Marcus Lee,CloudNext,ORG
+letter_005,Marcus Lee,Software Engineer,ROLE
+letter_005,Marcus Lee,Node.js,SKILL
+letter_005,Marcus Lee,React,SKILL
+letter_005,Marcus Lee,backend APIs,SKILL
+letter_005,Marcus Lee,user-centered design,SKILL
+letter_005,Marcus Lee,clean code,SKILL
+letter_005,Marcus Lee,disciplined,TRAIT
+letter_005,Marcus Lee,self-motivated,TRAIT
+letter_005,Marcus Lee,empathetic,TRAIT
+letter_005,Marcus Lee,clear,TRAIT
+letter_005,Marcus Lee,"contribute to scalable, high-impact projects",MOTIVATION
+letter_005,Marcus Lee,turn abstract ideas into tangible products,MOTIVATION
+letter_005,Marcus Lee,independent problem-solving,PREFERENCE
+letter_005,Marcus Lee,brainstorming with teammates,PREFERENCE

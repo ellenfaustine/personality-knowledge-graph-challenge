@@ -1,0 +1,92 @@
+[
+  {
+    "id": "letter_001",
+    "name": "Aisha Rahman",
+    "big_five": {
+      "openness": 0.80,
+      "conscientiousness": 0.62,
+      "extraversion": 0.50,
+      "agreeableness": 0.76,
+      "neuroticism": 0.30
+    },
+    "evidence": {
+      "openness": ["intersection of art and technology", "imaginative"],
+      "conscientiousness": ["balancing aesthetics with measurable usability"],
+      "extraversion": ["collaborative culture"],
+      "agreeableness": ["empathetic", "collaborative"],
+      "neuroticism": ["calm tone; no stress emphasis"]
+    }
+  },
+  {
+    "id": "letter_002",
+    "name": "Daniel Koh",
+    "big_five": {
+      "openness": 0.60,
+      "conscientiousness": 0.86,
+      "extraversion": 0.35,
+      "agreeableness": 0.70,
+      "neuroticism": 0.30
+    },
+    "evidence": {
+      "openness": ["curious", "interdisciplinary environment"],
+      "conscientiousness": ["meticulous", "reproducible results", "clinical standards"],
+      "extraversion": ["calm focus; not socially expressive"],
+      "agreeableness": ["integrity", "team leadership (supportive)"],
+      "neuroticism": ["calm focus under pressure"]
+    }
+  },
+  {
+    "id": "letter_003",
+    "name": "Evelyn Tan",
+    "big_five": {
+      "openness": 0.70,
+      "conscientiousness": 0.80,
+      "extraversion": 0.40,
+      "agreeableness": 0.75,
+      "neuroticism": 0.35
+    },
+    "evidence": {
+      "openness": ["enjoyed uncovering patterns", "creativity + analytical depth"],
+      "conscientiousness": ["detail-oriented", "methodical", "double-checking results"],
+      "extraversion": ["collaboration but measured tone"],
+      "agreeableness": ["patient", "seeks diverse opinions"],
+      "neuroticism": ["even, composed tone"]
+    }
+  },
+  {
+    "id": "letter_004",
+    "name": "Jonathan Lim",
+    "big_five": {
+      "openness": 0.55,
+      "conscientiousness": 0.85,
+      "extraversion": 0.50,
+      "agreeableness": 0.70,
+      "neuroticism": 0.30
+    },
+    "evidence": {
+      "openness": ["adaptable"],
+      "conscientiousness": ["proactive planning", "structured", "accountability"],
+      "extraversion": ["cross-functional coordination"],
+      "agreeableness": ["supportive presence", "clear communication"],
+      "neuroticism": ["calm when challenges arise"]
+    }
+  },
+  {
+    "id": "letter_005",
+    "name": "Marcus Lee",
+    "big_five": {
+      "openness": 0.65,
+      "conscientiousness": 0.80,
+      "extraversion": 0.55,
+      "agreeableness": 0.76,
+      "neuroticism": 0.30
+    },
+    "evidence": {
+      "openness": ["user-centered design", "enjoys turning ideas into products"],
+      "conscientiousness": ["disciplined", "organized"],
+      "extraversion": ["enjoys brainstorming with teammates"],
+      "agreeableness": ["empathy", "clarity", "mentorship"],
+      "neuroticism": ["steady, growth-focused tone"]
+    }
+  }
+]

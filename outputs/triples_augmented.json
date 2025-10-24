@@ -1,0 +1,367 @@
+[
+  {
+    "id": "letter_001",
+    "triples": [
+      [
+        "Aisha Rahman",
+        "applies_for",
+        "UX Designer"
+      ],
+      [
+        "Aisha Rahman",
+        "target_org",
+        "Atelier Interactive"
+      ],
+      [
+        "Aisha Rahman",
+        "previously_worked_at",
+        "PixelFlow Studio"
+      ],
+      [
+        "Aisha Rahman",
+        "has_skill",
+        "empathetic"
+      ],
+      [
+        "Aisha Rahman",
+        "has_skill",
+        "research-driven"
+      ],
+      [
+        "Aisha Rahman",
+        "has_skill",
+        "imaginative"
+      ],
+      [
+        "Aisha Rahman",
+        "has_skill",
+        "data-minded"
+      ],
+      [
+        "Aisha Rahman",
+        "has_trait",
+        "collaborative"
+      ],
+      [
+        "Aisha Rahman",
+        "has_trait",
+        "analytical"
+      ],
+      [
+        "Aisha Rahman",
+        "has_trait",
+        "creative"
+      ],
+      [
+        "Aisha Rahman",
+        "motivated_by",
+        "thoughtful design can influence emotion and behavior"
+      ],
+      [
+        "Aisha Rahman",
+        "prefers_environment",
+        "collaborative culture"
+      ]
+    ]
+  },
+  {
+    "id": "letter_002",
+    "triples": [
+      [
+        "Daniel Koh",
+        "applies_for",
+        "Research Scientist"
+      ],
+      [
+        "Daniel Koh",
+        "target_org",
+        "BioSense Institute"
+      ],
+      [
+        "Daniel Koh",
+        "previously_worked_at",
+        "previous lab"
+      ],
+      [
+        "Daniel Koh",
+        "has_skill",
+        "analytical"
+      ],
+      [
+        "Daniel Koh",
+        "has_skill",
+        "experimental"
+      ],
+      [
+        "Daniel Koh",
+        "has_skill",
+        "machine learning"
+      ],
+      [
+        "Daniel Koh",
+        "has_skill",
+        "refining models"
+      ],
+      [
+        "Daniel Koh",
+        "has_trait",
+        "curious"
+      ],
+      [
+        "Daniel Koh",
+        "has_trait",
+        "meticulous"
+      ],
+      [
+        "Daniel Koh",
+        "has_trait",
+        "calm focus under pressure"
+      ],
+      [
+        "Daniel Koh",
+        "motivated_by",
+        "contributing to discoveries that improve human health"
+      ],
+      [
+        "Daniel Koh",
+        "prefers_environment",
+        "interdisciplinary environment"
+      ]
+    ]
+  },
+  {
+    "id": "letter_003",
+    "triples": [
+      [
+        "Evelyn Tan",
+        "applies_for",
+        "Data Analyst"
+      ],
+      [
+        "Evelyn Tan",
+        "target_org",
+        "Nova Insights"
+      ],
+      [
+        "Evelyn Tan",
+        "previously_worked_at",
+        "Bright Metrics"
+      ],
+      [
+        "Evelyn Tan",
+        "has_skill",
+        "Python"
+      ],
+      [
+        "Evelyn Tan",
+        "has_skill",
+        "data analysis"
+      ],
+      [
+        "Evelyn Tan",
+        "has_skill",
+        "pattern recognition"
+      ],
+      [
+        "Evelyn Tan",
+        "has_skill",
+        "automation"
+      ],
+      [
+        "Evelyn Tan",
+        "has_trait",
+        "curious"
+      ],
+      [
+        "Evelyn Tan",
+        "has_trait",
+        "detail-oriented"
+      ],
+      [
+        "Evelyn Tan",
+        "has_trait",
+        "patient"
+      ],
+      [
+        "Evelyn Tan",
+        "has_trait",
+        "methodical"
+      ],
+      [
+        "Evelyn Tan",
+        "motivated_by",
+        "uncovering patterns in complex datasets"
+      ],
+      [
+        "Evelyn Tan",
+        "motivated_by",
+        "translating data into meaningful business strategies"
+      ],
+      [
+        "Evelyn Tan",
+        "prefers_environment",
+        "collaboration"
+      ],
+      [
+        "Evelyn Tan",
+        "prefers_environment",
+        "diverse opinions"
+      ]
+    ]
+  },
+  {
+    "id": "letter_004",
+    "triples": [
+      [
+        "Jonathan Lim",
+        "target_org",
+        "Vertex Dynamics"
+      ],
+      [
+        "Jonathan Lim",
+        "previously_worked_at",
+        "NexaTech"
+      ],
+      [
+        "Jonathan Lim",
+        "has_skill",
+        "leadership"
+      ],
+      [
+        "Jonathan Lim",
+        "has_skill",
+        "organizational skills"
+      ],
+      [
+        "Jonathan Lim",
+        "has_skill",
+        "structured"
+      ],
+      [
+        "Jonathan Lim",
+        "has_skill",
+        "adaptable"
+      ],
+      [
+        "Jonathan Lim",
+        "has_skill",
+        "clear communication"
+      ],
+      [
+        "Jonathan Lim",
+        "has_trait",
+        "proactive planning"
+      ],
+      [
+        "Jonathan Lim",
+        "has_trait",
+        "calm and supportive presence"
+      ],
+      [
+        "Jonathan Lim",
+        "motivated_by",
+        "bring leadership and organizational skills"
+      ],
+      [
+        "Jonathan Lim",
+        "motivated_by",
+        "deliver complex projects with precision"
+      ],
+      [
+        "Jonathan Lim",
+        "prefers_environment",
+        "anticipating problems rather than reacting to them"
+      ],
+      [
+        "Jonathan Lim",
+        "prefers_environment",
+        "human-centered teamwork"
+      ]
+    ]
+  },
+  {
+    "id": "letter_005",
+    "triples": [
+      [
+        "Marcus Lee",
+        "applies_for",
+        "Software Engineer"
+      ],
+      [
+        "Marcus Lee",
+        "target_org",
+        "Lumina Systems"
+      ],
+      [
+        "Marcus Lee",
+        "previously_worked_at",
+        "CloudNext"
+      ],
+      [
+        "Marcus Lee",
+        "has_skill",
+        "Node.js"
+      ],
+      [
+        "Marcus Lee",
+        "has_skill",
+        "React"
+      ],
+      [
+        "Marcus Lee",
+        "has_skill",
+        "backend APIs"
+      ],
+      [
+        "Marcus Lee",
+        "has_skill",
+        "user-centered design"
+      ],
+      [
+        "Marcus Lee",
+        "has_skill",
+        "clean code"
+      ],
+      [
+        "Marcus Lee",
+        "has_trait",
+        "disciplined"
+      ],
+      [
+        "Marcus Lee",
+        "has_trait",
+        "self-motivated"
+      ],
+      [
+        "Marcus Lee",
+        "has_trait",
+        "empathetic"
+      ],
+      [
+        "Marcus Lee",
+        "has_trait",
+        "clear"
+      ],
+      [
+        "Marcus Lee",
+        "motivated_by",
+        "contribute to scalable, high-impact projects"
+      ],
+      [
+        "Marcus Lee",
+        "motivated_by",
+        "turn abstract ideas into tangible products"
+      ],
+      [
+        "Marcus Lee",
+        "prefers_environment",
+        "independent problem-solving"
+      ],
+      [
+        "Marcus Lee",
+        "prefers_environment",
+        "brainstorming with teammates"
+      ]
+    ]
+  }
+]
